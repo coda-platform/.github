@@ -18,9 +18,9 @@ An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedica
 - [site-api](https://github.com/coda-platform/site-api)
 - [stats-api](https://github.com/coda-platform/stats-api)
 - [learning-api](https://github.com/coda-platform/learning-api)
-- [site-store-stub](https://github.com/coda-platform/site-store-stub)
-- [site-store-db](https://github.com/coda-platform/site-store-db)
-- [site-store-db-admin](https://github.com/coda-platform/site-store-db-admin)
+- [fhir-store](https://github.com/coda-platform/fhir-store)
+- [fhir-store-db](https://github.com/coda-platform/fhir-store-db)
+- [fhir-store-db-admin](https://github.com/coda-platform/fhir-store-db-admin)
 - [site-cache-db](https://github.com/coda-platform/site-cache-db)
 - [site-deployer](https://github.com/coda-platform/site-deployer)
 
