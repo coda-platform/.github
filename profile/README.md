@@ -8,10 +8,11 @@ An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedica
 
 ### Hub
 
+- [auth-service](https://github.com/coda-platform/auth-service)
 - [dashboard-app](https://github.com/coda-platform/dashboard-app)
 - [dashboard-api](https://github.com/coda-platform/dashboard-api)
 - [hub-api](https://github.com/coda-platform/hub-api)
-- [auth-service](https://github.com/coda-platform/auth-service)
+- [hub-cache-db](https://github.com/coda-platform/hub-cache-db)
 
 ### Site
 
