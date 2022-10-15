@@ -43,21 +43,28 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 - [fhir-types](https://github.com/coda-platform/fhir-types)
 - [terminology-api](https://github.com/coda-platform/terminology-api)
 
-## Team
+## Research Team
 
 The CODA team combines technical expertise in the fields of machine learning, data science, epidemiology, and biostatistics, as well as clinical research expertise in radiology, internal medicine, emergency medicine, and critical care medicine.
+
+### Project Manager
+
+- Pascal St-Onge, MSc [Get in touch](pascal.st-onge.chum@ssss.gouv.qc.ca )
 
 ### Executive Committee
 
 - Michaël Chassé, MD, PhD, CHUM¹
 - Louis-Antoine Mullie, MD, CHUM¹
-- David Buckeridge, MD, PhD, McGill University Health Centre²
 - Jonathan Afilalo, MD, MSc, Jewish General Hospital²
-- Han Ting Wang MD, MSc, Hôpital Maisonneuve-Rosemont¹
-- Yiorgos A. Cavayas, MD, MSc, Hôpital Sacré-Coeur de Montréal¹
-- Alexis Turgeon MD, MSc, CHU de Québec³
 - Patrick Archambault, MD, MSc, CISSS Chaudière-Appalaches³
+- David Buckeridge, MD, PhD, McGill University Health Centre²
+- Yiorgos A. Cavayas, MD, MSc, Hôpital Sacré-Coeur de Montréal¹
+- François Lamontagne, MD, MSc, CHUS⁵
+- Renald Lemieux, PhD, CIUSSS de l'Estrie - CHUS⁵
 - Joelle Pineau, PhD, Mila institute²
+- Alexis Turgeon MD, MSc, CHU de Québec³
+
+¹ Université de Montréal • ² McGill University • ³ Université Laval • ⁴ University of Ottawa • ⁵ Université Sherbrooke
 
 ### Steering Committee
 
@@ -78,5 +85,22 @@ The CODA team combines technical expertise in the fields of machine learning, da
 - Michaël Sauthier, MD, MBI, HSJ¹
 - Nicolas Sauthier, MD, CHUM¹
 - An Tang, MD, MSc, CHUM¹
+
+¹ Université de Montréal • ² McGill University • ³ Université Laval • ⁴ University of Ottawa • ⁵ Université Sherbrooke
+
+## Development Team
+
+- Kevin Arsenault³ [[@arsenaultk9](https://github.com/arsenaultk9)]
+- Rima Bouchakri¹ [[@Rima-B](https://github.com/Rima-B)]
+- Kip Brown¹ [[@dkipb](https://github.com/dkipb)]
+- Rajeev Das¹ [[@rajeevdas2507](https://github.com/rajeevdas2507)]
+- Adrien Dessemond³ [[@addes6](https://github.com/addes6)]
+- Alexandre Hamel² [[@ahamelmcgill](https://github.com/ahamelmcgill)]
+- Maxime Lavigne² [[@malavv](https://github.com/malavv)]
+- Bruno Lavoie³ [[@blavoie](https://github.com/blavoie)]
+- Julien Levesque¹ [[@JulienL3vesque](https://github.com/JulienL3vesque)]
+- Louis Mullie¹ [[@louismullie](https://github.com/louismullie)]
+- Jeffrey Li¹ [[@JeffreyLi16](https://github.com/JeffreyLi16)]
+- Xuefei Shi² [[@xuefeishi](https://github.com/xuefeishi)]
 
 ¹ Université de Montréal • ² McGill University • ³ Université Laval • ⁴ University of Ottawa • ⁵ Université Sherbrooke
