@@ -1,7 +1,6 @@
 # CODA
 
-Through an established partnership with 9 university-affiliated hospitals in Canada, the CODA project maintains a platform for privacy-preserving analysis of healthcare data. 
-
+Through an established partnership with 8 university-affiliated hospitals in Canada, the CODA project develops and maintains a platform for privacy-preserving analysis of healthcare data. 
 
 ## Architecture
 
@@ -68,14 +67,12 @@ The CODA team combines technical expertise in the fields of machine learning, da
 - Carl C.-Lefebvre, MD, MSc, CHUM¹
 - Joseph Paul Cohen, PhD, Mila¹
 - Guillaume Plourde, MD, PhD, CHUM¹
-
 - Audrey Durand, PhD, Mila³
 - Madeleine Durand, MD, MSc¹
 - Philippe Jouvet, MD, PhD, MBA, HSJ¹
 - Esli Osmanlliu MD, MSc (cand), MCH²
 - Shane W. English, MD, MSc, OH⁴ 
 - François Lamontagne, MD, MSc⁵
-
 - Brent Richards, MD, MSc, JGH²
 - Antony Robert, MD, MASc, MUHC²
 - Michaël Sauthier, MD, MBI, HSJ¹
