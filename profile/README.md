@@ -6,7 +6,7 @@ An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedica
 
 **High-level overview**
 
-<img src="[drawing.jpg](https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/high-level-overview.png)" alt="High-level overview" width="400"/>
+<img src="https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/high-level-overview.png" alt="High-level overview" width="600"/>
 
 ## Repositories
 
