@@ -4,11 +4,11 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 
 ## Architecture
 
-**Conceptual overview**
+### Conceptual overview
 
 <img src="https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/data-aggregation.png" alt="Conceptual overview" width="600"/>
 
-**Technical overview**
+### Technical overview
 
 <img src="https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/high-level-overview.png" alt="High-level overview" width="600"/>
 
