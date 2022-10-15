@@ -2,7 +2,7 @@
 
 An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedical Data
 
-## Overview
+## Architecture
 
 **High-level overview**
 
