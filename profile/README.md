@@ -41,4 +41,4 @@ An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedica
 
 - [base-types](https://github.com/coda-platform/base-types)
 - [fhir-types](https://github.com/coda-platform/fhir-types)
-- [dict-api](https://github.com/coda-platform/dict-api)
+- [terminology-api](https://github.com/coda-platform/terminology-api)
