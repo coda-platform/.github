@@ -2,7 +2,11 @@
 
 An Open-Source Platform for Privacy-Preserving Analysis of Distributed Biomedical Data
 
-## Where to start
+## Overview
+
+**High-level overview**
+
+![High-level overview](https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/high-level-overview.png "High-level overview")
 
 ## Repositories
 
