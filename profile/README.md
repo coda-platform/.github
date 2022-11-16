@@ -10,7 +10,7 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 
 ### Technical overview
 
-<img src="https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/high-level-overview.png" alt="High-level overview" width="600"/>
+<img src="https://raw.githubusercontent.com/coda-platform/charts-and-figures/main/images/repo-overview.png" alt="High-level overview" width="600"/>
 
 ## Repositories
 
