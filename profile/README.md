@@ -2,6 +2,12 @@
 
 Through an established partnership with 8 university-affiliated hospitals in Canada, the CODA project develops and maintains a platform for privacy-preserving analysis of healthcare data. 
 
+## Documentation
+
+- [Guides and policies](https://github.com/coda-platform/guides-and-policies)
+- [Grants and protocols](https://github.com/coda-platform/grants-and-protocols)
+- [Charts and figures](https://github.com/coda-platform/charts-and-figures)
+
 ## Architecture
 
 ### Conceptual overview
