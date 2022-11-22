@@ -1,14 +1,14 @@
 # CODA
 
-Through an established partnership with 8 university-affiliated hospitals in Canada, the CODA project develops and maintains a platform for privacy-preserving analysis of healthcare data. 
+Through an established partnership with 8 university-affiliated hospitals in Canada, the CODA project ([www.coda-platform.com](https://www.coda-platform.com)) develops and maintains a platform for privacy-preserving analysis of healthcare data. 
 
 ## Documentation
 
 - [Guides and policies](https://github.com/coda-platform/guides-and-policies)
- * [Deployment guide](https://github.com/coda-platform/guides-and-policies/tree/main/guides/deployment)
- * [Data security framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/data-security)
- * [Governance framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/governance)
- * [Terms of use](https://github.com/coda-platform/guides-and-policies/tree/main/policies/terms-of-use)
+  - [Deployment guide](https://github.com/coda-platform/guides-and-policies/tree/main/guides/deployment)
+  - [Data security framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/data-security)
+  - [Governance framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/governance)
+  - [Terms of use](https://github.com/coda-platform/guides-and-policies/tree/main/policies/terms-of-use)
 - [Grants and protocols](https://github.com/coda-platform/grants-and-protocols)
 - [Charts and figures](https://github.com/coda-platform/charts-and-figures)
 - [API specification](https://github.com/coda-platform/api-specification)
