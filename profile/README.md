@@ -5,8 +5,13 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 ## Documentation
 
 - [Guides and policies](https://github.com/coda-platform/guides-and-policies)
+ * [Deployment guide](https://github.com/coda-platform/guides-and-policies/tree/main/guides/deployment)
+ * [Data security framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/data-security)
+ * [Governance framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/governance)
+ * [Terms of use](https://github.com/coda-platform/guides-and-policies/tree/main/policies/terms-of-use)
 - [Grants and protocols](https://github.com/coda-platform/grants-and-protocols)
 - [Charts and figures](https://github.com/coda-platform/charts-and-figures)
+- [API specification](https://github.com/coda-platform/api-specification)
 
 ## Architecture
 
