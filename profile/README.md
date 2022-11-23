@@ -12,6 +12,7 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 - [Grants and protocols](https://github.com/coda-platform/grants-and-protocols)
 - [Charts and figures](https://github.com/coda-platform/charts-and-figures)
 - [API specification](https://github.com/coda-platform/api-specification)
+- [FHIR templates](https://github.com/coda-platform/fhir-types)
 
 ## Architecture
 
