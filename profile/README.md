@@ -10,7 +10,6 @@ Through an established partnership with 8 university-affiliated hospitals in Can
   - [Governance framework](https://github.com/coda-platform/guides-and-policies/tree/main/policies/governance)
   - [Terms of use](https://github.com/coda-platform/guides-and-policies/tree/main/policies/terms-of-use)
 - [Grants and protocols](https://github.com/coda-platform/grants-and-protocols)
-- [Charts and figures](https://github.com/coda-platform/charts-and-figures)
 - [API specification](https://github.com/coda-platform/api-specification)
 - [FHIR templates](https://github.com/coda-platform/fhir-types)
 
