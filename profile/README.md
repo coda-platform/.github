@@ -58,6 +58,13 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 - [fhir-types](https://github.com/coda-platform/fhir-types)
 - [terminology-api](https://github.com/coda-platform/terminology-api)
 
+### Postman API references
+
+- [User authentication](https://www.postman.com/interstellar-shuttle-170991/workspace/coda-platform/collection/16726802-9c516c04-f246-442b-a034-63df54834a48)
+- [Statistics API](https://www.postman.com/interstellar-shuttle-170991/workspace/coda-platform/collection/16726802-758dac65-0271-417b-96e4-dd9abae84569)
+- [Learning API](https://www.postman.com/interstellar-shuttle-170991/workspace/coda-platform/collection/16726802-e4844491-5a66-401b-b3b1-97703b143bec)
+
+
 ## Research Team
 
 The CODA team combines technical expertise in the fields of machine learning, data science, epidemiology, and biostatistics, as well as clinical research expertise in radiology, internal medicine, emergency medicine, and critical care medicine.
