@@ -71,7 +71,7 @@ The CODA team combines technical expertise in the fields of machine learning, da
 
 ### Project Manager
 
-- Pascal St-Onge, MSc [[Get in touch](mailto:pascal.st-onge.chum@ssss.gouv.qc.ca)]
+- Julien Levesque [[Get in touch](mailto:julien.levesque.chum@ssss.gouv.qc.ca)]
 
 ### Executive Committee
 
