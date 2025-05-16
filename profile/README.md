@@ -69,9 +69,6 @@ Through an established partnership with 8 university-affiliated hospitals in Can
 
 The CODA team combines technical expertise in the fields of machine learning, data science, epidemiology, and biostatistics, as well as clinical research expertise in radiology, internal medicine, emergency medicine, and critical care medicine.
 
-### Project Manager
-
-- Julien Levesque [[Get in touch](mailto:julien.levesque.chum@ssss.gouv.qc.ca)]
 
 ### Executive Committee
 
